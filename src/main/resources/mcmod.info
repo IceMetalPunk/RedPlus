@@ -1,0 +1,16 @@
+[
+{
+  "modid": "redplus",
+  "name": "Red+",
+  "description": "Red+ finds a balance between the capabilities of high tech mods and the feel of classic redstone.",
+  "version": "1.0",
+  "mcversion": "1.7.10",
+  "url": "",
+  "updateUrl": "",
+  "authorList": ["IceMetalPunk"],
+  "credits": "",
+  "logoFile": "",
+  "screenshots": [],
+  "dependencies": []
+}
+]

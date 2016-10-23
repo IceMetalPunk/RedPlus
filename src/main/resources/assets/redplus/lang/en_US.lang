@@ -1,0 +1,37 @@
+itemGroup.redPlus=Red+
+
+item.redstone_chunk.name=Redstone Chunk
+item.gold_door.name=Gold Door
+item.diamond_door.name=Diamond Door
+item.cerisium_ingot.name=Cerisium Ingot
+
+tile.redPlusPlacer.name=Red+ Placer
+tile.redPlusBreaker.name=Red+ Block Breaker
+tile.smartPlate_light.name=Light Smart Pressure Plate
+tile.smartPlate_heavy.name=Heavy Smart Pressure Plate
+tile.gold_door.name=Gold Door
+tile.diamond_door.name=Diamond Door
+tile.gold_trap_door.name=Gold Trapdoor
+tile.iron_trap_door.name=Iron Trapdoor
+tile.diamond_trap_door.name=Diamond Trapdoor
+tile.itemizer_rail.name=Prickly Rail
+tile.iron_fence_gate.name=Iron Fence Gate
+tile.gold_fence_gate.name=Gold Fence Gate
+tile.diamond_fence_gate.name=Diamond Fence Gate
+tile.light_sensor.name=Light Sensor
+tile.flip_glass.name=Flipglass
+tile.redstone_bridge.name=Redstone Bridge
+tile.glass_pressure_plate.name=Glass Pressure Plate
+tile.glass_button.name=Glass Button
+tile.cerisium_soil.name=Cerisium Infused Soil
+tile.cerisium_sandstone.name=Cerisium Infused Sandstone
+tile.cerisium_soul_sand.name=Cerisium Infused Soul Sand
+tile.cerisium_endstone.name=Cerisium Infused End Stone
+tile.cerisium_ice.name=Cerisium Ice
+tile.digital_clock.name=Digital Clock
+tile.cerisium_piston.name=Cerisium Piston
+
+container.placer=Placer
+container.breaker=Block Breaker
+
+entity.QuartzGolem.name=Quartz Golem
